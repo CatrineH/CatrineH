@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CatrineH, and I am a student.
 - 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on scrimbas frontend path
+- 💞️ I’m looking forward to collaborate on scrimbas frontend path
 - 📫 You can reach me on discord @catrine#1739
 
 <!---
