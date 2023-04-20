@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatrineH, and I am a student.
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in frontend dev, and have touched Javscript, MySQL, React, C#, Typescript, Java, Kotlin, Bootstrap, CSS, HTML
+- 🌱 I’m currently learning Python and Agile Project
 - 💞️ I’m looking forward to collaborate on scrimbas frontend path
 - 📫 You can reach me on discord @catrine#1739
 
