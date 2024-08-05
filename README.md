@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Catrine, bachelor student in frontend- mobile dev.
-- 👀 I have touched Javscript, MySQL, React, C#, Typescript, Java, Kotlin, Bootstrap, CSS, HTML, Python and Agile Project.
-- 🌱 I’m currently learning iOS Swift, Cross Platform with React Native, Tailwind, Typescript.
+- 👀 I have touched CSS, HTML, Javscript, MySQL, React, C#, Typescript, Java, Kotlin, Bootstrap, Python, Agile Project, iOS Swift, Cross Platform with React Native, Tailwind, Typescript
+- 🌱 I’m currently looking for a job in Fullstack
 - 📫 You can reach me on discord @catrine#1739
 
 <!---
