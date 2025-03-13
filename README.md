@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Catrine, bachelor student in frontend- mobile dev.
-- 👀 I have touched CSS, HTML, Javscript, MySQL, React, C#, Typescript, Java, Kotlin, Bootstrap, Python, Agile Project, iOS Swift, Cross Platform with React Native, Tailwind, Typescript
-- 🌱 I’m currently looking for a job in Fullstack
-- 📫 You can reach me on discord @catrine#1739
+👋 Hi, I’m Catrine! I’m a full-stack developer with a background in frontend and mobile development.
+💡 My experience includes JavaScript, TypeScript, React, MySQL, C#, Java, Kotlin, Python, Swift, and Agile methodologies.
+🚀 I’m currently looking for new opportunities in IT, with a strong interest in security, cloud architecture, and system administration.
+📬 Feel free to connect with me on Discord: @catrine#1739
 
 <!---
 CatrineH/CatrineH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
