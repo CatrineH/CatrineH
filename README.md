@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Catrine! I’m a full-stack developer with a background in frontend and mobile development.
+- 👋 Hi, I’m Catrine! I’m a software developer with a background in frontend and mobile development.
 - 💡 My experience includes JavaScript, TypeScript, React, PHP, Python, MySQL, C#, Java, Kotlin, Swift, and Agile methodologies.
 - 🔐 I’m particularly interested in software development with a focus on security, privacy, and architecture.
 - 🚀 I’m currently looking for new opportunities in IT.
