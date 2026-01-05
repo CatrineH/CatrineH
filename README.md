@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Catrine! I’m a software developer with a background in frontend and mobile development.
-- 💡 My experience includes JavaScript, TypeScript, React, PHP, Python, MySQL, C#, Java, Kotlin, Swift, and Agile methodologies.
+- 👋 Hi, I’m Catrine! I’m a software developer with a background in fullstack development
+- 💡 My experience includes JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, and Agile methodologies.
 - 🚀 I’m currently looking for new opportunities in IT.
 - 📬 Feel free to connect with me on Discord: @catrine#1739
 <!---
