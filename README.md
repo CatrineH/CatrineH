@@ -1,7 +1,10 @@
-👋 Hi, I’m Catrine! 
-I’m a software developer with a bachelor in frontend dev. Aiming at cloud tech and AI in 2026.
-🧐💡 includes JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, and Agile methodologies.
+👋 Hi, I’m Catrine!
+Ended my bachelor in information technology in 2024. Aiming at cloud tech and AI in 2026.
+
+🧐💡 I have touched JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, and Agile methodologies.
+
 🚀 I’m currently looking for new opportunities in IT.
+
 📬 Feel free to connect with me on Discord: @catrine#1739
 <!---
 CatrineH/CatrineH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
