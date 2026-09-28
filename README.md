@@ -3,7 +3,7 @@ Ended my bachelor in information technology in 2024. Aiming at cloud tech and AI
 
 🧐💡 I have touched JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, and Agile methodologies.
 
-🚀 I’m currently looking for new opportunities in IT.
+🚀 I’m currently working as an cloud engineer in Azure.  
 
 📬 Feel free to connect with me on Discord: @catrine#1739
 <!---
