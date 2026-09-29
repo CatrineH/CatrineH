@@ -1,14 +1,24 @@
-👋 Hi, I’m Catrine!
-Ended my bachelor in information technology in 2024. Aiming at cloud tech and AI in 2026.
+### 👋 Hi, I'm Catrine!
 
-🧐💡 I have touched JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, and Agile methodologies.
+☁️ Cloud engineer trainee at **Orange Business**, working in Public Cloud Transformation – Azure.
 
-🚀 I’m currently working as an cloud engineer in Azure.  
+🛋️➡️💻 Career changer: 12 years in retail sales and management at high-end Danish furniture companies, then a bachelor's in Frontend and Mobile Development (2024). Somewhere along the way, infrastructure became more interesting to me than UI, so I moved toward the cloud.
 
-📬 Feel free to connect with me on Discord: @catrine#1739
+🎓 **Certifications & learning**
+- ✅ Microsoft Azure Fundamentals (AZ-900), via Glasspaper's Azure program
+- 📚 Currently studying for **AZ-104: Azure Administrator**, covering identity, governance, networking, storage, compute and monitoring
+- 📝 I keep my study notes public here: [notes](https://github.com/CatrineH/notes)
+
+🛠️ **Tools I work with**
+Azure Portal · Azure CLI · PowerShell · Bicep / ARM templates · Microsoft Entra ID
+
+🧐 **Also touched on**
+JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, Agile methodologies
+
+🎯 Aiming for cloud and AI in 2026.
+
+📬 Feel free to connect with me on Discord: **@catrine**
+
 <!---
 CatrineH/CatrineH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 🔐 I’m particularly interested in software development with a focus on security, privacy, and architecture.
-
 --->
