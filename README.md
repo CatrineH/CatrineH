@@ -13,7 +13,7 @@
 Azure Portal · Azure CLI · PowerShell · Bicep / ARM templates · Microsoft Entra ID
 
 🧐 **Also touched on**
-JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, Agile methodologies
+JavaScript, TypeScript, React, PHP, Python, MySQL, Java, Kotlin, Swift, C#, Agile methodologies
 
 🎯 Aiming for cloud and AI in 2026.
 
