@@ -7,7 +7,7 @@
 🎓 **Certifications & learning**
 - ✅ Microsoft Azure Fundamentals (AZ-900), via Glasspaper's Azure program
 - 📚 Currently studying for **AZ-104: Azure Administrator**, covering identity, governance, networking, storage, compute and monitoring
-- 📝 I keep my study notes public here: [notes](https://github.com/CatrineH/az-notes)
+- 📝 I keep my study notes public here: [notes](https://github.com/CatrineH/az104-notes)
 
 🛠️ **Tools I work with**
 Azure Portal · Azure CLI · PowerShell · Bicep / ARM templates · Microsoft Entra ID
